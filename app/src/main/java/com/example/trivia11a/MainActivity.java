@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
         //Toast.makeText(MainActivity.this, str, Toast.LENGTH_SHORT).show();
         setTheme(str);
 
+
     }
 
     public void setTheme(String theme)
